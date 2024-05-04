@@ -1,7 +1,3 @@
-Certainly! Below is a sample README file for your GitHub repository for the Budget Analysis - 2024 project:
-
----
-
 # Budget Analysis - 2024
 
 Welcome to the Budget Analysis project for the India Budget of 2024. This project focuses on analyzing the budget allocation to various ministries and departments for the fiscal year 2024. The analysis is conducted using CSV data files and various Python libraries for data manipulation and visualization.
@@ -58,6 +54,3 @@ Contributions to this project are welcome! If you have any suggestions, feature 
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-Feel free to customize the README to include any additional information or details specific to your project!
